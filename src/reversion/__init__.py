@@ -35,7 +35,7 @@ def check_django_version():
             }
         )
         
-check_django_version()
+# check_django_version()
 
 
 # Legacy revision reference.
